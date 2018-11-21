@@ -1,0 +1,6 @@
+c:\users\deepakbh\documents\visual studio 2015\Projects\PushNotifyDB\PushNotifyDB\bin\Debug\PushNotifyDB.exe.config
+c:\users\deepakbh\documents\visual studio 2015\Projects\PushNotifyDB\PushNotifyDB\bin\Debug\PushNotifyDB.exe
+c:\users\deepakbh\documents\visual studio 2015\Projects\PushNotifyDB\PushNotifyDB\bin\Debug\PushNotifyDB.pdb
+c:\users\deepakbh\documents\visual studio 2015\Projects\PushNotifyDB\PushNotifyDB\obj\Debug\PushNotifyDB.csprojResolveAssemblyReference.cache
+c:\users\deepakbh\documents\visual studio 2015\Projects\PushNotifyDB\PushNotifyDB\obj\Debug\PushNotifyDB.exe
+c:\users\deepakbh\documents\visual studio 2015\Projects\PushNotifyDB\PushNotifyDB\obj\Debug\PushNotifyDB.pdb
